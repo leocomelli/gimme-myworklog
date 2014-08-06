@@ -2,7 +2,7 @@
 
 This project will create a csv file with all worklog registered at Jira (Tempo plugin).
 
-### Compile (cross compilation)
+### Build (cross compilation)
 * [Installing Go from source](http://golang.org/doc/install/source)
 * [An introduction to cross compilation with Go 1.1](http://dave.cheney.net/2013/07/09/an-introduction-to-cross-compilation-with-go-1-1)
 
